@@ -1,6 +1,7 @@
 #include "Circle.hpp"
 #include <math.h>
 #include <iostream>
+#include <fstream>
 
 Circle::Circle(double r)
     : r_(r)
